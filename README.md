@@ -24,4 +24,4 @@
 > 3. Did the restaurant's special offers such as kid meals, sharing spaces, locally sourced cuisine and lower nutritional content have an impact on how well it scored in the food inspection?
 
 # WORK FLOW
-[![N|Solid](https://github.com/JanushPrajosh/Dap_Team_Project/blob/main/workflow.png)]()
+[![N|Solid](https://github.com/NVishnunath/DAP/blob/main/Process_flow.png)]()
