@@ -8,11 +8,9 @@
 - PostgreSQL - (client)
 ###### PYTHON MODULES USED
 - pandas
-- sodapy
 - pymongo
 - sqlalchemy
 - psycopg2
-- nbimport
 - numpy
 - SciPy
 - seaborn
