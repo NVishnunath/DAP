@@ -1,22 +1,7 @@
-# RISING WATER: THE GLOBAL CHALLENGE OF SEA LEVEL CHANGE
+# 🌊 Sea Level Rise Analysis: CO₂ Emissions, Air Pollution & Climate Change
 
 [![N|Solid](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/290414739/original/92ff23f0734314bd73211ac89798eaa286b756ea/do-python-programming-projects-in-numpy-pycharm-pandas-jupyter-notebook.png)]()
 <!-- [![N|Solid](https://cdn-images-1.medium.com/max/1200/1*6j17ZDuywkKu7TOa2yvAKg.png)]() -->
-###### TOOLS USED
-- PYTHON - Jupyter Notebook
-- mongoDB - (client)
-- PostgreSQL - (client)
-###### PYTHON MODULES USED
-- pandas
-- pymongo
-- sqlalchemy
-- psycopg2
-- numpy
-- SciPy
-- seaborn
-- matplotlib
-
-# 🌊 Sea Level Rise Analysis: CO₂ Emissions, Air Pollution & Climate Change
 
 This project explores the interconnectedness of **sea level rise**, **CO₂ emissions**, and **air pollution**, providing data-driven insights into the impact of human activity on global climate change. Conducted as part of the **MSc in Data Analytics** at the **National College of Ireland**.
 
