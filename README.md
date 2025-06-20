@@ -29,6 +29,3 @@ To analyze and visualize the relationship between rising sea levels and key envi
 - **Deployment/DevOps**: Docker
 
 ---
-
-## 📂 Project Structure
-
